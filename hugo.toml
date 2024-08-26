@@ -1,3 +1,17 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'esoteric bullshit'
+theme = "psychicwound"
+
+[menu]
+    [[menu.nav]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+    [[menu.nav]]
+    identifier = "rss"
+    name = "RSS"
+    url = "/index.xml"
+    weight = 2

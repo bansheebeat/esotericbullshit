@@ -1,0 +1,136 @@
+:root {
+    --main: #FFFFFC;
+    --shade: #ededed;
+    --primary: #15141A;
+    --secondary: #5B5B66;
+    --white: #fff;
+    --shade: #e3e3e3;
+    --pink: #ec4899;
+    --blue: #3A83E3;
+}
+
+/* resets */
+    *, *::before, *::after {
+    box-sizing: border-box;
+    }
+
+    html {
+    -moz-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
+    -webkit-font-smoothing: antialiased;
+    }
+
+/* big stuff */
+header, main {
+        max-width: 800px;
+        margin: auto;
+}
+
+body {
+    background-color: var(--main);
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+a {
+    color: var(--primary);
+    text-decoration: underline 2px var(--blue);
+}
+
+/* header */
+header {
+
+    h1.siteTitle {
+        margin-bottom: 0;
+        text-align: center;
+        font-weight: 900;
+    }
+
+    nav {
+
+        #nav {
+            padding: 0;
+            list-style-type: none;
+            text-align: center;
+            margin-bottom: 5%;
+        }
+
+        #nav li {
+            display: inline;
+        }
+
+        #nav li a {
+            padding: 1.5% 2%;
+            border-radius: 10px;
+            border: 1px solid var(--secondary);
+            text-decoration: none;
+            font-size: .9rem;
+            text-transform: lowercase;
+            color: var(--primary);
+        }
+
+        #nav li a:hover {
+            background-color: var(--shade);
+        }
+    }
+}
+
+/* home */
+
+#recentPosts {
+    h2 {
+        margin: 0;
+    }
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+    }
+
+    li {
+        padding: 2% 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        a {
+            max-width: 670px;
+            font-size: 1rem;
+        }
+
+        .date {
+            font-size: .9rem;
+            text-transform: uppercase;
+            width: 120px;
+            text-align: right;
+        }
+    }
+
+    li + li {
+        border-top: 1px solid var(--shade);
+    }
+
+    a.all {
+        float: right;
+        padding: 1.5% 2%;
+        border-radius: 10px;
+        border: 1px solid var(--blue);
+        text-decoration: none;
+        font-size: .9rem;
+        color: var(--primary);
+        transition: all 0.25s ease-in-out;
+    }
+
+    a.all:hover {
+        background-color: var(--blue);
+        color: var(--white);
+    }
+}
+
+/* main */
+b, strong, em {
+    color: var(--blue);
+}

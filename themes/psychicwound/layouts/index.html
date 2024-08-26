@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+    {{ .Content }}
+
+    <div id="recentPosts">
+        <h2>recent posts</h2>
+        <ul>
+            {{ range ( where .Site.RegularPages "Type" "posts" | first 5 ) }}
+                <li>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <span class="date">{{ .Date.Format "2 Jan 2006" }}</span>
+                </li>
+            {{end}}
+        </ul>
+        <a class="all" href="/posts/">view all posts ⇒</a>
+    </div>
+
+{{ end }}
