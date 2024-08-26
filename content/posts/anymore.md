@@ -2,6 +2,8 @@
 title: "When Annie calls and I hear her voice on the phone I know she cares and I never felt that way before / as if I ever deserved something so serene in my life, should it really be so surreal?"
 date: 2024-08-26T01:55:11-04:00
 draft: false
+tags:
+    - test
 ---
  	
 Take it back, take it back, take it back all the way / I never thought that I’d be so thoughtless / waking up all alone on your cold pissed stained floor, now I know that it’s something I don’t want anymore / When Annie calls and I hear her voice on the phone I know she cares and I never felt that way before / as if I ever deserved something so serene in my life, should it really be so surreal?  

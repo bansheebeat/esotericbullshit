@@ -1,17 +1,21 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'esoteric bullshit'
 theme = "psychicwound"
+
+enableInlineShortcodes = 'true'
 
 [menu]
     [[menu.nav]]
     identifier = "home"
     name = "Home"
+    pre = "./svg/home.svg"
     url = "/"
     weight = 1
 
     [[menu.nav]]
     identifier = "rss"
     name = "RSS"
+    pre = "./svg/rss.svg"
     url = "/index.xml"
     weight = 2

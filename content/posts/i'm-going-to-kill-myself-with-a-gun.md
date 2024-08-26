@@ -15,4 +15,6 @@ I need a lot more money than what I have
 I'm gonna kill myself with a gun
 I'm gonna kill myself with a gun
 I need a lot more money than what I have
-I need a lot more money than what I have, I have none
+I need a lot more money than what I have, I have none[^1]
+
+[^1]: this is satirical, please don't call my mom
