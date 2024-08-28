@@ -259,10 +259,11 @@ time {
     border: none;
 }
 
-img {
+.single img {
     max-width: 75%;
     max-height: 400px;
-    text-align: center;
+    display: block;
+    margin: auto;
 }
 
 /* post list */
