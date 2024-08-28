@@ -11,13 +11,13 @@ paginate = 3
     [[menu.nav]]
     identifier = "home"
     name = "Home"
-    pre = "./svg/home.svg"
+    pre = "/svg/home.svg"
     url = "/"
     weight = 1
 
     [[menu.nav]]
     identifier = "rss"
     name = "RSS"
-    pre = "./svg/rss.svg"
+    pre = "/svg/rss.svg"
     url = "/index.xml"
     weight = 2
