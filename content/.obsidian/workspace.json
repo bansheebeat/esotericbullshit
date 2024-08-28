@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "217946139c198d0f",
+        "id": "3e00644d40b07946",
         "type": "tabs",
         "children": [
           {
-            "id": "eae30e6347a1129b",
+            "id": "bade31768bc53d09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/what's this (and how it works).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -56,14 +52,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "863438d0c07fd6d4",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -85,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/what's this (and how it works).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/what's this (and how it works).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/what's this (and how it works).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,8 +130,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eae30e6347a1129b",
+  "active": "bade31768bc53d09",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "posts/what's this (and how it works).md",
     "posts/week-notes/007.md",
     "posts/week-notes/006.md",
@@ -166,7 +151,6 @@
     "posts/hate for the island.md",
     "posts/Early thoughts on Pokémon Unbound.md",
     "posts/2024-08-28.md",
-    "Untitled.canvas",
     "posts/I finished The Basic Eight and I can't decide if I enjoyed it.md",
     "posts/smooth runs the water where the brook is deep.md",
     "posts/Media Log (August 2023).md",
@@ -175,7 +159,6 @@
     "posts/Thirteen to Know Me.md",
     "posts/Stages of Moving.md",
     "posts/On Teaching.md",
-    "posts/Old Woman Yells at the Cloud.md",
     "posts/week-notes",
     "posts/week notes",
     "templates"
