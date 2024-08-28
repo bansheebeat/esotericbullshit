@@ -2,12 +2,10 @@
 title: Automattic's Write Brief is, unsurprisingly, full of shit
 date: 2024-08-28
 url: write-brief
-tags:
-  - tech
-  - internet
-  - ai
-draft: true
+tags: [tech, internet, ai]
+draft: false
 ---
+
 Automattic [recently launched their Write Brief AI assistant](https://techcrunch.com/2024/08/07/automattic-launches-ai-writing-tool-that-aims-to-make-wordpress-blogs-more-readable-and-succinct/) for folks using Jetpack with WordPress.[^1] It is automatically available to anyone using wordpress.com, which I verified by logging into my 14-year-old account.
 
 I decided to test it out on my recent post about _The Basic Eight_. I chose this because it's one of my more recent posts that isn't #week-notes . I pasted it directly into the Gutenberg editor with all of the AI settings toggled on.
