@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4417d559bec8155c",
+        "id": "c18e38d34e0085f7",
         "type": "tabs",
         "children": [
           {
-            "id": "a38ed64997f423bb",
+            "id": "f938ffd58834543e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/i'm-going-to-kill-myself-with-a-gun.md",
+                "file": "posts/what's this (and how it works).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/i'm-going-to-kill-myself-with-a-gun.md",
+                "file": "posts/what's this (and how it works).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/i'm-going-to-kill-myself-with-a-gun.md",
+                "file": "posts/what's this (and how it works).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/i'm-going-to-kill-myself-with-a-gun.md"
+                "file": "posts/what's this (and how it works).md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,13 +155,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a38ed64997f423bb",
+  "active": "f938ffd58834543e",
   "lastOpenFiles": [
+    "posts/what's this (and how it works).md",
     "uses/index.md",
+    "posts/i'm-going-to-kill-myself-with-a-gun.md",
     "_index.md",
     "posts/Untitled.md",
     "posts/markdown.md",
-    "posts/i'm-going-to-kill-myself-with-a-gun.md",
     "posts/first-post.md",
     "posts/anymore.md",
     "templates/post.md",
