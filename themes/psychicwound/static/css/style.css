@@ -302,7 +302,6 @@ time {
 
 /* footer */
 footer {
-    background-color: var(--shade);
     color: var(--secondary);
     font-size: .9rem;
     margin-top: 2%;
