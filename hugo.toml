@@ -5,7 +5,7 @@ theme = "psychicwound"
 
 enableInlineShortcodes = 'true'
 summaryLength = '20'
-paginate = 2
+paginate = 3
 
 [menu]
     [[menu.nav]]

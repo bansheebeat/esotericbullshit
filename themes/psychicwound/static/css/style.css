@@ -25,6 +25,7 @@
 header, main {
         max-width: 800px;
         margin: auto;
+        flex: 1;
 }
 
 body {
@@ -32,6 +33,10 @@ body {
     font-family: 'Be Vietnam Pro', sans-serif;
     font-size: 1rem;
     line-height: 1.6;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 a {
@@ -118,7 +123,7 @@ header {
     }
 }
 
-/* home */
+/* recent posts */
 
 #recentPosts {
     h2 {
@@ -136,6 +141,7 @@ header {
         display: flex;
         justify-content: space-between;
         align-items: center;
+        border-bottom: 2px solid var(--shade);
 
         a {
             max-width: 670px;
@@ -152,10 +158,6 @@ header {
         }
     }
 
-    li + li {
-        border-top: 2px solid var(--shade);
-    }
-
     a.all {
         float: right;
         padding: 1.5% 2%;
@@ -165,7 +167,7 @@ header {
         font-size: .9rem;
         color: var(--primary);
         transition: all 0.25s ease-in-out;
-        margin-top: 10px;
+        margin-top: 2%;
         font-family: 'JetBrains Mono', monospace;
     }
 
@@ -236,8 +238,97 @@ time {
     margin: 0;
     padding: 0;
     list-style-type: none;
+
+    li {
+        padding: 2% 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        border-bottom: 2px solid var(--shade);
+    }
+
+    .title-summary {
+        max-width: 670px;
+    }
+
+    .title a {
+        font-size: 1rem;
+    }
+
+    .date {
+        font-size: .9rem;
+        text-transform: uppercase;
+        color: var(--secondary);
+        width: 120px;
+        flex-shrink: 0;
+        text-align: right;
+        font-family: 'JetBrains Mono', monospace;
+    }
+
+    .summary {
+        font-size: .95rem;
+        color: var(--secondary);
+        margin-left: 30px;
+    }
 }
 
-.list {
-    color: red;
+/* pagination */
+.pagination {
+    margin: 2% 0 0 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+
+    li {
+        display: inline;
+    }
+
+    li a {
+        padding: 1.5% 2%;
+        border-radius: 10px;
+        border: 1px solid var(--blue);
+        text-decoration: none;
+        font-size: .9rem;
+        text-transform: lowercase;
+        font-family: 'JetBrains Mono', monospace;
+        color: var(--primary);
+        display: inline-flex;
+        align-items: center;
+        transition: all 0.25s ease-in-out;
+    }
+
+    li a:hover {
+        background-color: var(--blue);
+        color: var(--white);
+    }
+}
+
+/* footer */
+footer {
+    background-color: var(--shade);
+    color: var(--secondary);
+    font-size: .9rem;
+    margin-top: 2%;
+    padding: 2%;
+    text-align: center;
+}
+
+footer .social {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+    a {
+        color: var(--blue);
+        text-decoration: none;
+    }
+
+    li {
+        display: inline;
+        margin-right: 10px;
+    }
+
+    svg {
+        transform: scale(1.5);
+    }
 }

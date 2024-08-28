@@ -1,18 +1,20 @@
 {{ define "main" }}
 
+    <h1>blog posts</h1>
     <ul class="postList">
         {{ range .Paginator.Pages }}
         <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <span class="date">{{ .Date.Format "2 Jan 2006" }}</span>
-            <div class="summary">
-                {{ .Summary }}
-                <a href="{{ .Permalink }}">Keep Reading</a>
+            <div class="title-summary">
+                <a class="title" href="{{ .Permalink }}">{{ .Title }}</a>
+                <div class="summary">
+                    {{ .Summary }}
+                </div>
             </div>
+            <div class="date">{{ .Date.Format "2 Jan 2006" }}</div>
         </li>
         {{ end }}
     </ul>
 
-    {{partial "pagination.html" .}} 
+    {{partial "pagination.html" .}}
 
 {{ end }}
