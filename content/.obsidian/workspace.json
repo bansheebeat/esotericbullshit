@@ -136,6 +136,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "ea1dadc10960939f",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -155,7 +163,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a38ed64997f423bb",
+  "active": "b50e73699ffef553",
   "lastOpenFiles": [
     "templates/post.md",
     "posts/short fictions.md",
