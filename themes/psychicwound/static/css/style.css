@@ -23,9 +23,8 @@
 
 /* big stuff */
 header, main {
-        max-width: 800px;
-        margin: auto;
-        flex: 1;
+    max-width: 800px;
+    margin: auto;
 }
 
 body {
@@ -36,7 +35,6 @@ body {
     min-height: 100vh;
     margin: 0;
     display: flex;
-    flex: 1;
     flex-direction: column;
 }
 
