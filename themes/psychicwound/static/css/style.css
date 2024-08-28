@@ -33,6 +33,7 @@ body {
     font-size: 1rem;
     line-height: 1.6;
     margin: 0;
+    padding: 0 2%;
 }
 
 a {
@@ -106,7 +107,10 @@ header {
             color: var(--primary);
             display: inline-flex;
             align-items: center;
-            gap: 10px;
+
+        #nav li + li a {
+            margin-left: 10px;
+        }
 
             img {
                 width: 20px;
@@ -141,7 +145,7 @@ header {
         border-bottom: 2px solid var(--shade);
 
         a {
-            max-width: 670px;
+            width: calc(100vw - 120px);
             font-size: 1rem;
         }
 
@@ -245,7 +249,7 @@ time {
     }
 
     .title-summary {
-        max-width: 670px;
+        width: calc(100vw - 120px);
     }
 
     .title a {
