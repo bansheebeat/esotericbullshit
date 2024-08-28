@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/week-notes/007.md",
+                "file": "posts/what's this (and how it works).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/week-notes/007.md",
+                "file": "posts/what's this (and how it works).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/week-notes/007.md",
+                "file": "posts/what's this (and how it works).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/week-notes/007.md"
+                "file": "posts/what's this (and how it works).md"
               }
-            }
-          },
-          {
-            "id": "ea1dadc10960939f",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
             }
           }
         ],
@@ -156,8 +148,9 @@
   },
   "active": "eae30e6347a1129b",
   "lastOpenFiles": [
-    "posts/week-notes/006.md",
+    "posts/what's this (and how it works).md",
     "posts/week-notes/007.md",
+    "posts/week-notes/006.md",
     "posts/What's This.md",
     "now",
     "posts/my year in lists.md",
@@ -183,7 +176,6 @@
     "posts/Stages of Moving.md",
     "posts/On Teaching.md",
     "posts/Old Woman Yells at the Cloud.md",
-    "posts/Media Log (July 2023).md",
     "posts/week-notes",
     "posts/week notes",
     "templates"
