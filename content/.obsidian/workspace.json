@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Untitled.md",
+                "file": "uses/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Untitled.md",
+                "file": "uses/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Untitled.md",
+                "file": "uses/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Untitled.md"
+                "file": "uses/index.md"
               }
             }
           },
@@ -157,11 +157,14 @@
   },
   "active": "a38ed64997f423bb",
   "lastOpenFiles": [
-    "templates/post.md",
+    "_index.md",
     "posts/Untitled.md",
+    "posts/markdown.md",
     "posts/i'm-going-to-kill-myself-with-a-gun.md",
-    "posts/short fictions.md",
+    "posts/first-post.md",
     "posts/anymore.md",
+    "templates/post.md",
+    "posts/short fictions.md",
     "templates"
   ]
 }
