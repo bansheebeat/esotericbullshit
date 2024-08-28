@@ -4,9 +4,23 @@
     --primary: #15141A;
     --secondary: #5B5B66;
     --white: #fff;
-    --shade: #ededed;
     --pink: #ec4899;
     --blue: #3A83E3;
+}
+
+/* dark mode */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --main: #191919;
+        --shade: #3d3d3d;
+        --primary: #eaebe5;
+        --secondary: #c5c5c2;
+        --white: #000;
+    }
+
+    #nav img {
+        filter: brightness(0) saturate(100%) invert(99%) sepia(5%) saturate(1030%) hue-rotate(10deg) brightness(111%) contrast(86%);
+    }
 }
 
 /* resets */
@@ -34,6 +48,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0 2%;
+    color: var(--primary);
 }
 
 a {

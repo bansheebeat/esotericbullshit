@@ -7,6 +7,12 @@ enableInlineShortcodes = 'true'
 summaryLength = '25'
 paginate = 3
 
+[module]
+[[module.mounts]]
+  source = 'content'
+  target = 'content'
+  excludeFiles = ['templates/*']
+
 [menu]
     [[menu.nav]]
     identifier = "home"
