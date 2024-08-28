@@ -4,7 +4,7 @@ title = 'esoteric bullshit'
 theme = "psychicwound"
 
 enableInlineShortcodes = 'true'
-summaryLength = '20'
+summaryLength = '25'
 paginate = 3
 
 [menu]
