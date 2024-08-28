@@ -53,7 +53,7 @@ body {
 
 a {
     color: var(--primary);
-    text-decoration: underline 2px var(--blue);
+    text-decoration: underline dotted 2px var(--blue);
 }
 
 code, ol::marker {
@@ -148,7 +148,10 @@ header {
     }
 }
 
-/* recent posts */
+/* home and recent posts */
+.list p strong {
+    color: var(--pink);
+}
 
 #recentPosts {
     h2 {

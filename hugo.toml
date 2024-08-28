@@ -22,11 +22,18 @@ paginate = 10
     weight = 1
 
     [[menu.nav]]
+    identifier = "uses"
+    name = "Uses"
+    pre = "/svg/device-desktop.svg"
+    url = "/uses"
+    weight = 2
+
+    [[menu.nav]]
     identifier = "rss"
     name = "RSS"
     pre = "/svg/rss.svg"
     url = "/index.xml"
-    weight = 2
+    weight = 3    
 
 [permalinks]
   [permalinks.page]
