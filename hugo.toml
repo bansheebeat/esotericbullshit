@@ -4,6 +4,8 @@ title = 'esoteric bullshit'
 theme = "psychicwound"
 
 enableInlineShortcodes = 'true'
+summaryLength = '20'
+paginate = 2
 
 [menu]
     [[menu.nav]]

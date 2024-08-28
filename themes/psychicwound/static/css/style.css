@@ -47,6 +47,31 @@ li::marker, ol::marker {
     color: var(--blue);
 }
 
+/* formatting */
+
+b, strong, em {
+    color: var(--blue);
+}
+
+blockquote {
+    background-color: var(--shade);
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: .95rem;
+}
+
+pre {
+    background-color: var(--shade);
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: .95rem;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.footnote-ref {
+    font-family: 'JetBrains Mono', monospace;
+}
+
 /* header */
 header {
 
@@ -206,27 +231,13 @@ time {
     border: none;
 }
 
-/* formatting */
-
-b, strong, em {
-    color: var(--blue);
+/* post list */
+.postList {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
 }
 
-blockquote {
-    background-color: var(--shade);
-    border-radius: 10px;
-    padding: 10px 20px;
-    font-size: .95rem;
-}
-
-pre {
-    background-color: var(--shade);
-    border-radius: 10px;
-    padding: 10px 20px;
-    font-size: .95rem;
-    font-family: 'JetBrains Mono', monospace;
-}
-
-.footnote-ref {
-    font-family: 'JetBrains Mono', monospace;
+.list {
+    color: red;
 }
