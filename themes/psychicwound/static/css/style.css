@@ -25,6 +25,7 @@
 header, main {
     max-width: 800px;
     margin: auto;
+    width: 100vw;
 }
 
 body {
@@ -99,7 +100,7 @@ header {
         }
 
         #nav li a {
-            padding: 3.5% 4%;
+            padding: 1.5% 2%;
             border-radius: 10px;
             border: 1px solid var(--secondary);
             text-decoration: none;
@@ -109,6 +110,7 @@ header {
             color: var(--primary);
             display: inline-flex;
             align-items: center;
+            gap: 10px;
 
             img {
                 width: 20px;
