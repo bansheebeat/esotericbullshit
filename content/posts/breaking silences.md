@@ -7,7 +7,7 @@ tags:
   - teaching
 draft: false
 ---
-[Last time I updated this blog](https://cassie.land/your-silence-will-not-protect-you/), I wrote about silences in my professional career. These past few weeks, I feel I am doing the work to break mine.
+[Last time I updated this blog](/your-silence-will-not-protect-you/), I wrote about silences in my professional career. These past few weeks, I feel I am doing the work to break mine.
 
 I am the faculty advisor for my middle school's GSA. I have been for years now, and it's something I'm very proud of, but this year especially I feel I have a great crop of kids that I'm really connecting with. At my town's Pride festival in early June, my club had a booth selling crafts the kids had made to raise funds. The kids filtered in and out to help sell goods, but mostly I think they just valued having a "home base" at the event. For me, it was a long, socially draining day, but speaking to them afterward about the experience and hearing them tell me how at home they felt at the festival, how comfortable they felt being themselves, was so gratifying. 
 

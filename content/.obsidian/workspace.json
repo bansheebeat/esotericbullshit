@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5df1604c2d8ac8c0",
+        "id": "217946139c198d0f",
         "type": "tabs",
         "children": [
           {
-            "id": "3251ceb81820d4c7",
+            "id": "eae30e6347a1129b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"draft\": true",
+                "query": "cassie.land",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,8 +157,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3251ceb81820d4c7",
+  "active": "eae30e6347a1129b",
   "lastOpenFiles": [
+    "posts/my year in lists.md",
+    "moving-my-home-server-to-a-new-chassis.md",
+    "posts/Moving to a rack mount setup.md",
+    "posts/Media Log (January 2024).md",
+    "posts/breaking silences.md",
+    "posts/week-notes/005.md",
+    "posts/week-notes/003.md",
+    "posts/week-notes/001.md",
+    "posts/What's This.md",
     "templates/post.md",
     "posts/Moving my home server to a new chassis.md",
     "posts/hate for the island.md",
@@ -169,23 +178,14 @@
     "posts/smooth runs the water where the brook is deep.md",
     "posts/Media Log (August 2023).md",
     "posts/LITR 308 Emily Dickinson & Queer Theory.md",
-    "posts/Moving to a rack mount setup.md",
-    "posts/breaking silences.md",
     "posts/Your silence will not protect you.md",
     "posts/Thirteen to Know Me.md",
-    "posts/What's This.md",
     "posts/Stages of Moving.md",
     "posts/On Teaching.md",
     "posts/Old Woman Yells at the Cloud.md",
-    "posts/my year in lists.md",
     "posts/Media Log (July 2023).md",
     "posts/LITR 250 Close Reading 2E.md",
     "posts/Intentional Listening.md",
-    "posts/Media Log (January 2024).md",
-    "posts/Coming Out.md",
-    "posts/week-notes/I want to sleep and dream alone (week notes 006).md",
-    "posts/week-notes/005.md",
-    "posts/week-notes/004.md",
     "posts/week-notes",
     "posts/week notes",
     "templates"

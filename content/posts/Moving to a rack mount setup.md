@@ -8,7 +8,7 @@ tags:
   - tech
 draft: false
 ---
-I wrote a post a few months ago [cataloguing moving my home server](https://cassie.land/server-adventure-pt-1/) from the old NZXT case I had leftover from my old PC into a Rosewill chassis that would let me, eventually, move to a proper rack setup. This past Prime Day, I purchased a Riveco 15U rack and then some sliding rails to go along with it, with the hope of finally moving the loud and hot NAS into the basement where it belongs.
+I wrote a post a few months ago [cataloguing moving my home server](/moving-my-home-server-to-a-new-chassis/) from the old NZXT case I had leftover from my old PC into a Rosewill chassis that would let me, eventually, move to a proper rack setup. This past Prime Day, I purchased a Riveco 15U rack and then some sliding rails to go along with it, with the hope of finally moving the loud and hot NAS into the basement where it belongs.
 
 Putting together the rack was easy enough: there were a lot of screws, which is fine, but the assembly was straightforward.
 
