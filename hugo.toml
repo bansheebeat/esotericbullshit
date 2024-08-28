@@ -5,7 +5,7 @@ theme = "psychicwound"
 
 enableInlineShortcodes = 'true'
 summaryLength = '25'
-paginate = 3
+paginate = 10
 
 [module]
 [[module.mounts]]
@@ -27,3 +27,10 @@ paginate = 3
     pre = "/svg/rss.svg"
     url = "/index.xml"
     weight = 2
+
+[permalinks]
+  [permalinks.page]
+    week-notes = '/week-notes/:slug/'
+  [permalinks.section]
+    week-notes = '/week-notes/'
+

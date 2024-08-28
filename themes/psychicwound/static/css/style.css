@@ -64,12 +64,13 @@ li::marker, ol::marker {
     color: var(--blue);
 }
 
-/* formatting */
-
-b, strong, em {
-    color: var(--blue);
+hr {
+    height: 2px;
+    background-color: var(--shade);
+    border: none;
 }
 
+/* formatting */
 blockquote {
     background-color: var(--shade);
     border-radius: 10px;

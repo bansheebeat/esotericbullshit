@@ -4,7 +4,7 @@ date: 2024-08-28
 url: what's-this-(and-how-it-works)
 tags:
   - meta
-draft: true
+draft: false
 ---
 Welcome to esotericbullshit.net, the new home of my blog and web stuff.
 
