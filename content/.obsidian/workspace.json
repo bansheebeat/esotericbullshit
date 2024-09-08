@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/week-notes/007.md",
+                "file": "posts/week-notes/008.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/week-notes/007.md",
+                "file": "posts/week-notes/008.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/week-notes/007.md",
+                "file": "posts/week-notes/008.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/week-notes/007.md"
+                "file": "posts/week-notes/008.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   "active": "bade31768bc53d09",
   "lastOpenFiles": [
     "posts/week-notes/006.md",
+    "posts/week-notes/008.md",
     "posts/week-notes/007.md",
     "posts/Automattic's Write Brief AI is, unsurprisingly, full of shit.md",
     "Untitled.canvas",
@@ -164,7 +165,6 @@
     "posts/Your silence will not protect you.md",
     "posts/Thirteen to Know Me.md",
     "posts/Stages of Moving.md",
-    "posts/On Teaching.md",
     "posts/week-notes",
     "posts/week notes",
     "templates"
