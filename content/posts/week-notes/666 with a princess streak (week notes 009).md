@@ -11,6 +11,7 @@ draft: true
 
 # Reading
 * **_No One Belongs Here More than You_, Miranda July.** This has been in my Amazon wishlist for I don't know how long — long enough that I've forgotten where I'd found it or why I'd wanted to read it. I liked the cover a lot, I guess. Anyway, I feel this is suffering from my reading it so soon after _Death Is Not an Option_ as I have much of the same opinion: excellent prose but turned off by all the weird sex.[^1] I find July's narrators and conceits to be far more varied than Rivecca's, but Rivecca never made me read about an old man who fantasizes about teenage girls, so I automatically like her better.
+* **[Meet Lochlan O'Neil, the creator of DashCon](https://www.garbageday.email/p/meet-lochlan-oneil-the-creator-of) on Garbage Day.** _"I had to go to extensive therapy because I was like, “oh my god, I, Lochlan O'Neil, single-handedly destroyed fandom culture?”_
 
 # Listening
 * **_i,i_, Bon Iver.** Not bad, but I like _For Emma_ and _22, A Million_ far more.
