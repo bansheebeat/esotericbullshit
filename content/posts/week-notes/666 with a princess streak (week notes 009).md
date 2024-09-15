@@ -7,7 +7,8 @@ draft: true
 ---
 
 # Doing
-* Working on getting off big corporate social media, still. I'm almost entirely off Twitter; I keep the app just because I have a few notifications set for when specific people tweet (mostly bands who tweet out tour dates), but I'm otherwise mostly on Mastodon (social.lol) and Discord. Cohost going down was sad to see even if I was never an active user, but it impressed on me even further the importance of owning your content — and it made me really happy to have this space for my thoughts and writing.
+* Working on getting off big corporate social media, still. I'm almost entirely off Twitter; I keep the app just because I have a few notifications set for when specific people tweet (mostly bands who tweet out tour dates), but I'm otherwise mostly on Mastodon (social.lol) and Discord. Cohost going down was sad to see even if I was never an active user and there were problems with it, but its downfall impressed on me even further the importance of owning your content — and it made me really happy to have this space for my thoughts and writing.
+* I got my COVID booster and flu shot on Friday, which put me out of order for some time. Glad to have them done, however; one day of discomfort is worth it!
 * The weight of being a teacher really set on me this week — not the teaching work, which I love, but the emotional weight of my students' lives. It's especially hard to see kids that remind me of myself at their age and wish I could impart all that I've learned — but knowing that there are no shortcuts and that the only way out for them is through. I can't pluck them out; they have to live it. I can only hope to be there for them as they do.
 
 # Reading
@@ -16,8 +17,9 @@ draft: true
 
 # Watching
 * **_Pokémon 4Ever._** Joe and I got our shit rocked by the COVID and flu shots and decided to watch this. Middling, but a surprising environmentalist message. I'm realizing how much of who Joe is goes back to Pokémon, of all things.
+* **_Gilmore Girls_, season five.** Joe and I went back in for a few episodes in our shot stupor. Still enjoyable, but we are quickly gaining on the last of the good episodes in my opinion.
 
 # Listening
 * **_i,i_, Bon Iver.** Not bad, but I like _For Emma_ and _22, A Million_ far more.
 
-[^1]: reading these books back to back has left me wondering if I'm somehow selecting books only written by deviants
+[^1]: reading these books back to back has left me wondering if I'm somehow unconsciously selecting books only written by deviants or if I'm just so vanilla that my gauge for sexual content is skewed
