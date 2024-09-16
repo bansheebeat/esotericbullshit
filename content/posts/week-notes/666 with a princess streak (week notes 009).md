@@ -3,7 +3,7 @@ title: 666 with a princess streak  (week notes 009)
 date: 2024-09-11
 url: week-notes/009
 tags: [week-notes]
-draft: false
+draft: true
 ---
 
 # Doing
@@ -21,7 +21,5 @@ draft: false
 
 # Listening
 * **_i,i_, Bon Iver.** Not bad, but I like _For Emma_ and _22, A Million_ far more.
-* **_Chants_, The Peripheral Ones.** I've said before that this album is perhaps the most esoteric of my bullshit; it's a cover album of a little-known[^2] Myspace-era band, [The Middle Ones](https://themiddleones.bandcamp.com/), done by [pigthe](https://pigthe.bandcamp.com/music) (the guitarist for [Trust Fund](https://trustfund.bandcamp.com/music)). The album is obscure enough that it's not on MusicBrainz (I'm aware that I could add it) and the band has 23 listeners on last.fm. I love it and go back to it often.
 
 [^1]: reading these books back to back has left me wondering if I'm somehow unconsciously selecting books only written by deviants or if I'm just so vanilla that my gauge for sexual content is skewed
-[^2]: Outside of the (now gone) anorak forum, I guess.
