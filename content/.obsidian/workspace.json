@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e1cc71dae866780",
+            "id": "1b0fb74cf3e8d14f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/week-notes/013.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/week-notes/013.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/week-notes/013.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/week-notes/013.md"
+              }
             }
           }
         ],
@@ -128,13 +136,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9e1cc71dae866780",
+  "active": "1b0fb74cf3e8d14f",
   "lastOpenFiles": [
+    "posts/week-notes/010.md",
     "posts/week-notes/011.md",
+    "posts/week-notes/013.md",
     "posts/week-notes/012.md",
     "posts/week-notes/(week notes 011).md",
     "posts/week-notes/12.md",
-    "posts/week-notes/010.md",
     "Untitled.canvas",
     "posts/week-notes/009.md",
     "posts/week-notes/008.md",
@@ -157,7 +166,6 @@
     "posts/hate for the island.md",
     "posts/Early thoughts on Pokémon Unbound.md",
     "posts/2024-08-28.md",
-    "posts/I finished The Basic Eight and I can't decide if I enjoyed it.md",
     "posts/week-notes",
     "posts/week notes",
     "templates"
