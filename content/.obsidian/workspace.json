@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/week-notes/011.md",
+                "file": "posts/week-notes/012.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/week-notes/011.md",
+                "file": "posts/week-notes/012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/week-notes/011.md",
+                "file": "posts/week-notes/012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/week-notes/011.md"
+                "file": "posts/week-notes/012.md"
               }
             }
           }
@@ -138,8 +138,10 @@
   },
   "active": "bade31768bc53d09",
   "lastOpenFiles": [
-    "posts/week-notes/010.md",
     "posts/week-notes/011.md",
+    "posts/week-notes/012.md",
+    "posts/week-notes/12.md",
+    "posts/week-notes/010.md",
     "Untitled.canvas",
     "posts/week-notes/009.md",
     "posts/week-notes/008.md",
@@ -164,8 +166,6 @@
     "posts/2024-08-28.md",
     "posts/I finished The Basic Eight and I can't decide if I enjoyed it.md",
     "posts/smooth runs the water where the brook is deep.md",
-    "posts/Media Log (August 2023).md",
-    "posts/LITR 308 Emily Dickinson & Queer Theory.md",
     "posts/week-notes",
     "posts/week notes",
     "templates"
