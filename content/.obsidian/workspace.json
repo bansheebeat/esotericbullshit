@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "235f2c38707d6853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/week-notes/013.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,11 +149,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b0fb74cf3e8d14f",
+  "active": "235f2c38707d6853",
   "lastOpenFiles": [
+    "posts/fall in love again and again.md",
+    "posts/week-notes/013.md",
     "posts/week-notes/010.md",
     "posts/week-notes/011.md",
-    "posts/week-notes/013.md",
     "posts/week-notes/012.md",
     "posts/week-notes/(week notes 011).md",
     "posts/week-notes/12.md",
@@ -165,7 +179,6 @@
     "posts/Moving my home server to a new chassis.md",
     "posts/hate for the island.md",
     "posts/Early thoughts on Pokémon Unbound.md",
-    "posts/2024-08-28.md",
     "posts/week-notes",
     "posts/week notes",
     "templates"

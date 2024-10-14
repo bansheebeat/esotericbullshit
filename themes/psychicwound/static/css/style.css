@@ -109,7 +109,8 @@ li {
 header {
 
     h1.siteTitle {
-        margin-bottom: 0;
+        margin-bottom: -20px;
+        color: var(--blue);
         text-align: center;
         font-weight: 900;
     }
@@ -120,7 +121,7 @@ header {
             padding: 0;
             list-style-type: none;
             text-align: center;
-            margin-bottom: 5%;
+            margin-bottom: 3%;
         }
 
         #nav li {
@@ -128,9 +129,8 @@ header {
         }
 
         #nav li a {
-            padding: 1.5% 2%;
-            border-radius: 10px;
-            border: 1px solid var(--blue);
+            padding: 2%;
+            border-radius: 30px;
             text-decoration: none;
             font-size: .9rem;
             text-transform: lowercase;
@@ -151,7 +151,14 @@ header {
         }
 
         #nav li a:hover {
-            background-color: var(--shade);
+            /*background-color: var(--blue);
+            color: var(--white);*/
+            text-decoration: underline dotted 2px var(--blue);
+            transition: all .25s ease-out;
+
+            img {
+                /*filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7470%) hue-rotate(211deg) brightness(91%) contrast(117%);*/
+            }
         }
     }
 }
@@ -228,11 +235,7 @@ header {
     list-style-type: none;
     display: flex;
     font-family: var(--mono);
-    /*padding: 1.5% 2%;
-    border-radius: 10px;
-    border: 1px solid var(--secondary);*/
-    font-size: .9rem;
-    color: var(--secondary);
+    font-size: .8rem;
 
     @media screen and (max-width: 450px) {
         flex-direction: column;
@@ -242,6 +245,9 @@ header {
         margin-right: 10px;
         display: inline-flex;
         align-items: center;
+        background-color: rgba(237, 237, 237, .5);
+        padding: 1.5%;
+        border-radius: 25px;
 
         svg {
             margin-right: 3px;
@@ -250,7 +256,6 @@ header {
     }
 
     .tags a {
-        color: var(--secondary);
         text-decoration: underline dotted 1px var(--blue);
     }
 }
