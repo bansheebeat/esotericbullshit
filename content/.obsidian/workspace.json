@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b0fb74cf3e8d14f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/week-notes/013.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "235f2c38707d6853",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
