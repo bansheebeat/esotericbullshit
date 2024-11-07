@@ -6,6 +6,7 @@ tags:
   - life
   - politics
 draft: false
+images: ogi.png
 ---
 2016 was the first year I was eligible to vote in a presidential election. I was away at college, so I completed an absentee ballot, and, like most, felt confident in what I thought would be the result. I was no big fan of Clinton's — I voted for Bernie in the primaries — but the other option was laughable: I couldn't believe that a major political party put such a clown up as their candidate, and I thought the electorate was smart enough to see him for the fraud (and fascist) he was.
 
