@@ -43,7 +43,7 @@ paginate = 10
 
 [params]
   description = 'arcane shit that I am incomprehensibly fixated on'
-  images = ['ogi.png']
+  images = 'ogi.png'
   title = 'esoteric bullshit'
 [taxonomies]
   series = 'series'
