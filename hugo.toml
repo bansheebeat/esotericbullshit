@@ -41,3 +41,9 @@ paginate = 10
   [permalinks.section]
     week-notes = '/week-notes/'
 
+[params]
+  description = 'arcane shit that I am incomprehensibly fixated on'
+  images = ['ogi.png']
+  title = 'esoteric bullshit'
+[taxonomies]
+  series = 'series'
