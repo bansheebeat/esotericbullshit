@@ -30,5 +30,7 @@ paginate = 10
 [params]
   description = 'arcane shit that I am incomprehensibly fixated on'
   title = 'esoteric bullshit'
+
 [taxonomies]
   series = 'series'
+  tags = 'tags'
