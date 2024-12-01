@@ -1,11 +1,11 @@
 <header>
-    <h1 class="siteTitle">{{ .Site.Title }}</h1>
+    <h1 class="siteTitle"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
     <nav>
         <ul id="nav">
             {{ range .Site.Menus.nav }}
             <li>
                 <a href=" {{ .URL }}">
-                    <img src="{{ .Pre }}" />
+                    <!--<img src="{{ .Pre }}" />-->
                     {{ .Name }}
                 </a>
             </li>

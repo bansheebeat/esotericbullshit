@@ -15,29 +15,15 @@ paginate = 10
 
 [menu]
     [[menu.nav]]
-    identifier = "home"
-    name = "Home"
-    pre = "/svg/home.svg"
-    url = "/"
-    weight = 1
-
-    [[menu.nav]]
-    identifier = "uses"
-    name = "Uses"
-    pre = "/svg/device-desktop.svg"
-    url = "/uses"
-    weight = 2
-
-    [[menu.nav]]
-    identifier = "rss"
-    name = "RSS"
-    pre = "/svg/rss.svg"
-    url = "/index.xml"
-    weight = 3    
+    identifier = "about"
+    name = "about"
+    pre = ""
+    url = "/about"
+    weight = 1   
 
 [permalinks]
   [permalinks.page]
-    week-notes = '/week-notes/:slug/'
+    week-notes = '/week-notes/:filename/'
   [permalinks.section]
     week-notes = '/week-notes/'
 

@@ -5,5 +5,5 @@
     <link rel="stylesheet" type="text/css" href="{{ absURL "css/fonts.css" }}">
     <meta name="fediverse:creator" content="@cass@social.lol" />
     {{ partial "opengraph.html" . }}
-    <title>{{ .Title }}</title>
+    <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 </head>

@@ -113,20 +113,27 @@ li {
 
 /* header */
 header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
     h1.siteTitle {
-        margin-bottom: -20px;
-        color: var(--blue);
-        text-align: center;
-        font-weight: 900;
+        font-weight: 700;
+        font-size: 1.4rem;
+
+        a {
+            text-decoration: none;
+            color: var(--pink);
+        }
     }
 
     nav {
+        flex-grow: 2;
+        text-align: right;
 
         #nav {
             padding: 0;
             list-style-type: none;
-            text-align: center;
             margin-bottom: 3%;
         }
 
@@ -157,10 +164,9 @@ header {
         }
 
         #nav li a:hover {
-            /*background-color: var(--blue);
-            color: var(--white);*/
-            text-decoration: underline dotted 2px var(--blue);
-            transition: all .25s ease-out;
+            background-color: var(--blue);
+            color: var(--white);
+            transition: all .25s ease-in-out;
 
             img {
                 /*filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7470%) hue-rotate(211deg) brightness(91%) contrast(117%);*/
@@ -175,6 +181,9 @@ header {
 }
 
 #recentPosts {
+    margin-bottom: 10%;
+    clear: both;
+
     h2 {
         margin: 0;
     }
@@ -195,6 +204,9 @@ header {
         a {
             width: calc(100vw - 120px);
             font-size: 1rem;
+            font-family: var(--mono);
+            font-size: .9rem;
+            text-decoration: none;
         }
 
         .date {
@@ -294,6 +306,9 @@ time {
 }
 
 /* post list */
+h1.list {
+    color: var(--blue);
+}
 .postList {
     margin: 0;
     padding: 0;
@@ -387,7 +402,7 @@ footer .social {
     }
 
     li {
-        margin-right: 10px;
+        margin-right: 2%;
     }
 
     svg {
