@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a20f4a68814c82da",
+        "id": "e351cfe62dcd1f3c",
         "type": "tabs",
         "children": [
           {
-            "id": "808049bf6d2f0ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/week-notes/014.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "014"
-            }
-          },
-          {
-            "id": "394f163d409cf1ad",
+            "id": "a03f2756e1ed968a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "015"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +150,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "394f163d409cf1ad",
+  "active": "a03f2756e1ed968a",
   "lastOpenFiles": [
     "posts/week-notes/014.md",
     "posts/week-notes/015.md",
