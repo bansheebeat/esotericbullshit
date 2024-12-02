@@ -11,14 +11,10 @@
             "id": "45911f9b873fbc15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/week-notes/16.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "16"
+              "title": "New tab"
             }
           }
         ]
@@ -132,6 +128,26 @@
   },
   "active": "45911f9b873fbc15",
   "lastOpenFiles": [
+    "week-notes/016.md",
+    "week-notes/015.md",
+    "week-notes/014.md",
+    "week-notes/013.md",
+    "week-notes/012.md",
+    "week-notes/011.md",
+    "week-notes/010.md",
+    "week-notes/009.md",
+    "week-notes/008.md",
+    "week-notes/007.md",
+    "week-notes/006.md",
+    "week-notes/005.md",
+    "week-notes/004.md",
+    "week-notes/003.md",
+    "week-notes/002.md",
+    "week-notes/001.md",
+    "week-notes",
+    "posts/an ode to gitsync.md",
+    "about/index.md",
+    "about",
     "posts/week-notes/16.md",
     "posts/week-notes/16.md"
   ]
