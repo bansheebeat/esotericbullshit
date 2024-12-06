@@ -85,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "week-notes/016.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
