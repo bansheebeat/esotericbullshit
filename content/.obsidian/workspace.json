@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/an ode to gitsync.md",
+                "file": "week-notes/016.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "an ode to gitsync"
+              "title": "016"
             }
           }
         ]
@@ -152,8 +152,8 @@
   },
   "active": "87dc5f96c08c7937",
   "lastOpenFiles": [
-    "posts/Moving my home server to a new chassis.md",
     "posts/an ode to gitsync.md",
+    "posts/Moving my home server to a new chassis.md",
     "about/index.md",
     "templates/(week notes N).md",
     "about",
