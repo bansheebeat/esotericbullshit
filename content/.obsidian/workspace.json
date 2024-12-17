@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week-notes/017.md",
+                "file": "week-notes/018.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "017"
+              "title": "018"
             }
           }
         ]
@@ -145,14 +145,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "3a61256c959b5094",
   "lastOpenFiles": [
-    "week-notes/016.md",
     "week-notes/017.md",
+    "week-notes/018.md",
+    "week-notes/016.md",
     "posts/an ode to gitsync.md",
     "posts/Moving my home server to a new chassis.md",
     "about/index.md",
@@ -178,7 +180,6 @@
     "Untitled.canvas",
     "posts/week-notes/009.md",
     "posts/week-notes/008.md",
-    "posts/week-notes/007.md",
     "now",
     "posts/week-notes",
     "posts/week notes",
