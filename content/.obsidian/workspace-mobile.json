@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "019"
             }
+          },
+          {
+            "id": "1a066e53a533c8e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "week-notes/020.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "020"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,10 +146,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45911f9b873fbc15",
+  "active": "1a066e53a533c8e3",
   "lastOpenFiles": [
-    "week-notes/018.md",
+    "posts/().md",
+    "week-notes/020.md",
     "week-notes/019.md",
+    "week-notes/018.md",
     "posts/dad.md",
     "week-notes/017.md",
     "week-notes/016.md",
