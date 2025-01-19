@@ -1,5 +1,7 @@
 {
   "accentColor": "#3a83e3",
-  "interfaceFontFamily": "Be Vietnam Pro",
-  "theme": "system"
+  "interfaceFontFamily": "",
+  "theme": "system",
+  "textFontFamily": "Be Vietnam Pro",
+  "baseFontSize": 15
 }
