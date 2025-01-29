@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "week-notes/022.md",
+                "file": "week-notes/023.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "022"
+              "title": "023"
             }
           }
         ]
@@ -133,6 +133,7 @@
   },
   "active": "602b49bc1b5d7dba",
   "lastOpenFiles": [
+    "week-notes/022.md",
     "week-notes/023.md",
     "week-notes/021.md",
     "week-notes/020.md",
@@ -159,7 +160,6 @@
     "week-notes/002.md",
     "week-notes/001.md",
     "week-notes",
-    "posts/an ode to gitsync.md",
     "about"
   ]
 }
