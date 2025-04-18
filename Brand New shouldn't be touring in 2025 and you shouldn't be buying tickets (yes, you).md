@@ -1,0 +1,3 @@
+I was introduced to Brand New by my older sister, probably as early as middle school; my iPod Nano, which I received for Christmas in 2006, definitely had "Jesus Christ" and "Seventy Times Seven" on it, with undoubtedly a few hundred plays between them. I'm pretty sure "Jude Law" was, at some point, my MySpace profile song, but I was too much of a hipster to ever really like "Quiet Things." 
+
+Over the next few years, I'd listen to more of their discography, but it wasn't until my later high school years — coincidentally, when I was massively depressed — that I'd listen cover-to-cover to *The Devil and God Are Raging Inside Me*. It spoke to me, as it did to so many teens when it first dropped
